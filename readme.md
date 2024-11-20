@@ -2,6 +2,8 @@
 
 Binge+ is a react-based web application that uses the OMDB api to help you browse movies and TV shows and select the ones that interest you to make a dedicated watchlist.
 
+Here is a link to a live demo: https://soft-alfajores-c9ce98.netlify.app/
+
 ## Installation
 
 Download the attached package and unzip it. Then run the following commands on your terminal:
